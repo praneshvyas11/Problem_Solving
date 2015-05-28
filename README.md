@@ -2,7 +2,7 @@
 
 Problem solving with data Structures
 
-This repository contains all the problems that I have done so far in problem solving starting from the very basic data structure.
+This repository contains all the source-code that I have done so far in problem solving starting from the very basic data structure.
 
 This repository keeps updating almost on a daily basis.
 
